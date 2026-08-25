@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HerdGate</string>
+    <string name="app_tagline">Smart Livestock Gate &amp; Herd Counter</string>
+    
+    <!-- Auth Strings -->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Create Account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_sub">Enter your credentials to monitor your livestock</string>
+    <string name="sign_up_title">Join HerdGate</string>
+    <string name="sign_up_sub">Setup your account to manage gate sensors and counts</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="select_role">Select Role</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account? <b>Sign Up</b></string>
+    <string name="already_have_account">Already have an account? <b>Sign In</b></string>
+    
+    <!-- User Roles -->
+    <string name="role_farm_owner">Farm Owner</string>
+    <string name="role_field_worker">Field Worker</string>
+    <string name="role_system_admin">System Admin</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">HerdGate Dashboard</string>
+    <string name="live_herd_count">Live Herd Count</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
